@@ -1,0 +1,17 @@
+{
+  "name": "nodewithoutexpress",
+  "version": "1.0.0",
+  "description": "Node Application without express js",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Praveen Kumar Machavarram",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
